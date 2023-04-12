@@ -2,7 +2,7 @@ export class Personagem {
   nome
   vida = 100
   mana = 100
-  level
+  #level
   tipo
   descricao
 
